@@ -1,0 +1,33 @@
+.text-center{
+    text-align: center;
+  }
+  .bg-red{
+    background: red;
+  }
+  .mx-auto{
+    margin: auto;
+  }
+  .flex{
+    display: felx;
+  }
+  .flex-col{
+    flex-direction: column;
+  }
+  .items-center{
+    align-items: center;
+  }
+  .bolded { 
+    font-weight: bold; 
+  }
+  .bg-c{
+    background: #F4511E;
+  }
+  .bg-lightgrey{
+    background:#80868B ;
+  }
+  .bg-yellow{
+    background: #FF9500;
+  }
+  .bg-grey{
+    background: #505050;
+  }
